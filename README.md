@@ -1,10 +1,10 @@
 # This is a Todo app made with ReactJs
 ## How to get started
 * To use just go to the deployment website and there you will find a text box where you can write any task (at least 5 characters) and then after pressing enter it will be added to the task list below.
-* After completing the task, you can click on the task to mark it complete ( that task's text will apprear as stikethrough and opacity will decrease ).
-* You can delete a completed task by clicking on the trash button next to each task.
+* After completing the task, you can click on the task to mark it complete ( that task's text will appear stiked-through and opacity will decrease ).
+* You can delete a task by clicking on the trash button next to each task.
 * There are also options to either show all tasks or remove completed tasks or show only completed tasks.
-* Tasks will remain as they as even after refreshing the page as they will be stored in the local storage of your browser.
+* Tasks will remain as they are even after refreshing the page as they will be stored in the local storage of your browser.
 
 # To use the app in local environmenn
 ## Follow the steps below
